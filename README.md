@@ -6,9 +6,9 @@ Python has several functions for creating, reading, updating, and deleting files
 <b>open(filename,mode): </b> create new file, open the file and read them on server.
 <b>write(): </b> <br>
 <b>read(): </b> <br>
-<b>remove(): </b>
-<b>rmdir(): </b>
-<b>exists(): </b>
+<b>remove(): </b> <br>
+<b>rmdir(): </b> <br>
+<b>exists(): </b> <br>
 <b>close(): </b> <br>
 
 
