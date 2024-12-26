@@ -3,8 +3,15 @@
 Python has several functions for creating, reading, updating, and deleting files.
 
 <h4>File Open</h4>
-1. <b>open(filename,mode): </b> create new file, open the file and read them on server.
-2. <b>write(): </b> 
+<b>open(filename,mode): </b> create new file, open the file and read them on server.
+<b>write(): </b> <br>
+<b>read(): </b> <br>
+<b>remove(): </b>
+<b>rmdir(): </b>
+<b>exists(): </b>
+<b>close(): </b> <br>
+
+
 
 <br>
 There are four different methods (modes) for opening a file:<br>
