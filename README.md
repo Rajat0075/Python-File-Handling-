@@ -3,10 +3,10 @@
 Python has several functions for creating, reading, updating, and deleting files.
 
 <h4>File Open</h4>
-1. <b>open(filename,mode): </b> To open the file and read them on server.
-2. <b></b>
+1. <b>open(filename,mode): </b> create new file, open the file and read them on server.
+2. <b>write(): </b> 
 
-
+<br>
 There are four different methods (modes) for opening a file:<br>
 <b>"r"</b> - Read - Default value. Opens a file for reading, error if the file does not exist<br>
 <b>"a"</b> - Append - Opens a file for appending, creates the file if it does not exist<br>
